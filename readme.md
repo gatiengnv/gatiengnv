@@ -1,6 +1,6 @@
 # Bonjour ! 🚀  
 
-My name is **Gatien GENEVOIS**, and I’m a **Computer Science student** specializing in **DATA** at **Reims University**.  
+My name is **Gatien**, and I’m a **Computer Science student** specializing in **DATA** at **Reims University**.  
 Passionate about **data science, web development, and system administration**, I love exploring new technologies and building projects.  
 
 ---
