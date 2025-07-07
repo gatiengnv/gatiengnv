@@ -52,9 +52,7 @@ Passionate about **data science, web development, and system administration**, I
 ### 🔍 **[Better Search Console](https://better-search-console.com)**  
 _A self-hosted project on a VPS using **Nginx**, focused on web analytics and SEO insights._
 
----
-
-### 🔍 **[Stravinsight](https://stravinsight.com)**  
+### 🏃 **[Stravinsight](https://stravinsight.com)**  
 _Analyse your strava activities data_
 
 ---
