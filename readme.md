@@ -54,6 +54,11 @@ _A self-hosted project on a VPS using **Nginx**, focused on web analytics and SE
 
 ---
 
+### 🔍 **[Stravinsight](https://stravinsight.com)**  
+_Analyse your strava activities data_
+
+---
+
 ## 🔍 Where to find me  
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn" title="LinkedIn" height="25" />](https://www.linkedin.com/in/gatiengnv)
