@@ -1,7 +1,6 @@
 # Bonjour ! 🚀  
 
-My name is **Gatien**, and I’m a **Computer Science student** specializing in **DATA** at **Reims University**.  
-Passionate about **data science, web development, and system administration**, I love exploring new technologies and building projects.  
+Engineering student in **Système Numérique at UTT**, passionate about **Artificial Intelligence, Data Science, and Machine Learning**. I enjoy working with data, building intelligent systems, and exploring new technologies through hands-on projects.
 
 ---
 
